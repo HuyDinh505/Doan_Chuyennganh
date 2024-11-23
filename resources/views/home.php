@@ -50,7 +50,7 @@
                 <!-- Logo -->
                 <div class="logo">
                   <a href="home.php"
-                    ><img src="../assets/img/logo/logo.png" alt=""  />
+                    ><img src="../assets/img/logo/logo.png" alt="" width ="200" height="150" />
                   </a>
                 </div>
               </div>
@@ -63,29 +63,25 @@
                         <li><a href="home.php">trang chủ</a></li>
                         <li><a href="job_listing.php">tìm việc </a></li>
                         <li><a href="about.php">về chúng tôi</a></li>
-                        <li>
+                        <!-- <li>
                           <a href="#">Page</a>
                           <ul class="submenu">
                             <li><a href="blog.php">Blog</a></li>
                             <li><a href="single-blog.php">Blog Chi tiết</a></li>
-                            <li><a href="elements.php">phạm vi hoạt động</a></li>
                             <li><a href="job_details.php">Chi tiết công việc</a></li>
                           </ul>
-                        </li>
+                        </li> -->
                         <li><a href="contact.php">Liên hệ</a></li>
+                        <li><a href="login_ntd.php">dành cho nhà tuyển dụng</a></li>
                       </ul>
                     </nav>
                   </div>
-                  <!-- Header-btn -->
+                  <!-- Header-btn --> 
                   <div class="header-btn d-none f-right d-lg-block">
-<<<<<<< HEAD:index.html
-                    <a href="Register.html" class="btn head-btn1">Register</a>
-                    <a href="Login.html" class="btn head-btn2">Login</a>
-=======
-                    <a href="#" class="btn head-btn1">đăng ký</a>
-                    <a href="#" class="btn head-btn2">đăng nhập</a>
->>>>>>> 04bf88596060272e14d32eb6fe602f0fea4030a2:resources/views/home.php
+                    <a href="Register.html" class="btn head-btn1">đăng ký</a>
+                    <a href="login.html" class="btn head-btn2">đăng nhập</a>
                   </div>
+                  
                 </div>
               </div>
               <!-- Mobile Menu -->
