@@ -152,7 +152,7 @@
                                         <input type="checkbox" >
                                         <span class="checkmark"></span>
                                     </label>
-                                    <label class="container">Part Time
+                                    <label class="containgit Time
                                         <input type="checkbox" checked="checked active">
                                         <span class="checkmark"></span>
                                     </label>
