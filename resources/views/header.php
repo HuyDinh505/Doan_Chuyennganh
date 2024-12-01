@@ -60,7 +60,7 @@
                   <div class="main-menu">
                     <nav class="d-none d-lg-block">
                       <ul id="navigation">
-                        <li><a href="home.php">Trang chủ</a></li>
+                        <li><a href="index.php">Trang chủ</a></li>
                         <li><a href="job_listing.php">Tìm việc </a></li>
                         <li><a href="home.php">Cho người tìm việc</a></li>
                       </ul>
