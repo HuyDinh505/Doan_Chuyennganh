@@ -68,8 +68,8 @@
                   </div>
                   <!-- Header-btn -->
                   <div class="header-btn d-none f-right d-lg-block">
-                    <a href="index?act=register_ntd" class="btn head-btn1">Đăng Ký</a>
-                    <a href="index?act=login" class="btn head-btn2">Đăng Nhập</a>
+                    <a href="register_ntd.php" class="btn head-btn1">Đăng Ký</a>
+                    <a href="login_ntd.php" class="btn head-btn2">Đăng Nhập</a>
                   </div>
 
                 </div>
